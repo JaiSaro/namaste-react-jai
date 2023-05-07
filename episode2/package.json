@@ -1,0 +1,27 @@
+{
+  "name": "episode2",
+  "version": "1.0.0",
+  "description": "Namaste React Episode2",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaiSaro/namaste-react-jai.git"
+  },
+  "author": "Jai Saravanan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaiSaro/namaste-react-jai/issues"
+  },
+  "homepage": "https://github.com/JaiSaro/namaste-react-jai#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
